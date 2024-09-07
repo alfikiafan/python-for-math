@@ -4,13 +4,17 @@
 
 Pemrograman (_coding_) itu ibarat memberikan instruksi atau perintah kepada komputer untuk melakukan tugas tertentu. Bayangkan komputer itu seperti asisten yang sangat pintar, tapi dia hanya bisa melakukan apa yang kamu perintahkan secara tepat. Misalnya, jika kamu ingin asistenmu menghitung nilai matematika atau menganalisis data, kamu harus memberitahunya dengan jelas apa yang harus dilakukan.
 
-![Ilustrasi Pemrograman](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtHBJf4mO_2sqXySYr7CSXyk2PVYU1KR5CTQ&s "Ilustrasi Pemrograman: Komputer bertindak seperti asisten yang menjalankan instruksi yang diberikan oleh programmer")
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtHBJf4mO_2sqXySYr7CSXyk2PVYU1KR5CTQ&s" alt="Ilustrasi Pemrograman" width="50%" title="Ilustrasi Pemrograman: Komputer bertindak seperti asisten yang menjalankan instruksi yang diberikan oleh programmer"/>
+</p>
 
 Di dunia matematika, pemrograman sangat berguna. Kamu bisa menggunakan kode untuk melakukan perhitungan rumit, menganalisis data besar, atau bahkan memvisualisasikan grafik. Dengan kata lain, pemrograman bisa membantu kamu mengerjakan tugas-tugas matematika yang sulit dengan lebih cepat dan efisien.
 
 ## 2. Pengenalan Python
 
-![Logo Bahasa Pemrograman Python](https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp "Logo Bahasa Pemrograman Python")
+<p align="center">
+  <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp" alt="Logo Bahasa Pemrograman Python" width="50%" title="Logo Bahasa Pemrograman Python"/>
+</p>
 
 Python adalah salah satu bahasa pemrograman yang sangat populer dan mudah dipelajari, terutama untuk pemula. Dengan sintaks yang sederhana dan kemampuan untuk menangani berbagai tugas, Python adalah pilihan yang tepat untuk mulai belajar pemrograman.
 
@@ -34,14 +38,14 @@ Sebelum kita membahas lebih jauh tentang variabel, mari kita pahami terlebih dah
 
 ### 3.2 Variabel
 
-Pikirkan variabel seperti kotak penyimpanan yang bisa kamu beri nama. Di dalam kotak ini, kamu bisa menyimpan berbagai jenis data, seperti angka atau teks. Tipe data menentukan jenis informasi yang bisa disimpan dalam variabel tersebut.
+Bayangkan variabel itu seperti kotak penyimpanan yang bisa kamu beri nama. Di dalam kotak ini, kamu bisa menyimpan berbagai jenis data, seperti angka atau teks. Tipe data menentukan jenis informasi yang bisa disimpan dalam variabel tersebut.
 
 #### Contoh:
 ```python
 # Mendeklarasikan variabel dengan tipe data yang berbeda
-x = 10          # Kotak x berisi angka bulat (integer) 10
-y = 3.14        # Kotak y berisi angka desimal (float) 3.14
-name = "Fiki" # Kotak name berisi teks (string) "Fiki"
+x = 10           # Kotak x berisi angka bulat (integer) 10
+y = 3.14         # Kotak y berisi angka desimal (float) 3.14
+name = "Fiki"    # Kotak name berisi teks (string) "Fiki"
 is_active = True # Kotak is_active berisi nilai boolean True
 ```
 
@@ -194,8 +198,6 @@ print("Luas segitiga dengan alas", alas, "dan tinggi", tinggi, "adalah", luas_se
 Penjelasan:
 - Fungsi `luas_segitiga` menerima dua parameter, `alas` dan `tinggi`, dan mengembalikan luas segitiga.
 - Kamu bisa memanggil fungsi ini dengan memberikan nilai untuk `alas` dan `tinggi`.
-
----
 
 ## 7. Komentar
 
