@@ -5,7 +5,7 @@
 Pemrograman (_coding_) itu ibarat memberikan instruksi atau perintah kepada komputer untuk melakukan tugas tertentu. Bayangkan komputer itu seperti asisten yang sangat pintar, tapi dia hanya bisa melakukan apa yang kamu perintahkan secara tepat. Misalnya, jika kamu ingin asistenmu menghitung nilai matematika atau menganalisis data, kamu harus memberitahunya dengan jelas apa yang harus dilakukan.
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtHBJf4mO_2sqXySYr7CSXyk2PVYU1KR5CTQ&s" alt="Ilustrasi Pemrograman" width="50%" title="Ilustrasi Pemrograman: Komputer bertindak seperti asisten yang menjalankan instruksi yang diberikan oleh programmer"/>
+  <img src="https://storage.googleapis.com/fastwork-static/dfeb4215-792f-40a7-9f57-783a1927eb3e.jpg" alt="Ilustrasi Pemrograman" width="50%" title="Ilustrasi Pemrograman: Komputer bertindak seperti asisten yang menjalankan instruksi yang diberikan oleh programmer"/>
 </p>
 
 Di dunia matematika, pemrograman sangat berguna. Kamu bisa menggunakan kode untuk melakukan perhitungan rumit, menganalisis data besar, atau bahkan memvisualisasikan grafik. Dengan kata lain, pemrograman bisa membantu kamu mengerjakan tugas-tugas matematika yang sulit dengan lebih cepat dan efisien.
@@ -13,7 +13,7 @@ Di dunia matematika, pemrograman sangat berguna. Kamu bisa menggunakan kode untu
 ## 2. Pengenalan Python
 
 <p align="center">
-  <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp" alt="Logo Bahasa Pemrograman Python" width="50%" title="Logo Bahasa Pemrograman Python"/>
+  <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp" alt="Logo Bahasa Pemrograman Python" width="25%" title="Logo Bahasa Pemrograman Python"/>
 </p>
 
 Python adalah salah satu bahasa pemrograman yang sangat populer dan mudah dipelajari, terutama untuk pemula. Dengan sintaks yang sederhana dan kemampuan untuk menangani berbagai tugas, Python adalah pilihan yang tepat untuk mulai belajar pemrograman.
