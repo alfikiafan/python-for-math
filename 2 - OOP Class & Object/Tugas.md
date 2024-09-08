@@ -22,23 +22,23 @@ Kalian diminta untuk membuat sebuah **program Python** yang dapat digunakan untu
 
 3. Buat class `Kelas` yang memiliki atribut:
    - `daftar_mahasiswa`: List untuk menyimpan object `Mahasiswa` yang sudah dibuat.
-   - **Clue:** sintaks untuk membuat list dalam class "Kelas" adalah: `self.daftar_mahasiswa = []`.
+   **Clue:** sintaks untuk membuat list dalam class "Kelas" adalah: `self.daftar_mahasiswa = []`.
 
 4. Class `Kelas` harus memiliki metode:
    - `tambah_mahasiswa(mahasiswa)`: Menambahkan object `Mahasiswa` ke dalam list `daftar_mahasiswa`.  
-   - **Clue:** sintaks untuk menambahkan object ke dalam list adalah: `self.daftar_mahasiswa.append(mahasiswa)`.
+   **Clue:** sintaks untuk menambahkan object ke dalam list adalah: `self.daftar_mahasiswa.append(mahasiswa)`.
    - `tampilkan_semua_mahasiswa()`: Menampilkan semua data mahasiswa dalam kelas.
    - `hitung_rata_rata_nilai()`: Menghitung dan menampilkan rata-rata nilai mahasiswa dalam kelas.
-   - **Clue:** gunakan fungsi `sum()` untuk menjumlahkan nilai-nilai mahasiswa dan `len()` untuk menghitung jumlah mahasiswa.
+   **Clue:** gunakan fungsi `sum()` untuk menjumlahkan nilai-nilai mahasiswa dan `len()` untuk menghitung jumlah mahasiswa.
    - `cari_nilai_tertinggi()`: Menampilkan mahasiswa dengan nilai tertinggi.
-   - **Clue:** gunakan fungsi `max()` untuk mencari nilai tertinggi.
+   **Clue:** gunakan fungsi `max()` untuk mencari nilai tertinggi.
    - `cari_nilai_terendah()`: Menampilkan mahasiswa dengan nilai terendah.
-   - **Clue:** gunakan fungsi `min()` untuk mencari nilai terendah.
+   **Clue:** gunakan fungsi `min()` untuk mencari nilai terendah.
 
 ### Persyaratan Tambahan
 - Gunakan **looping** (perulangan) dan **if-else** untuk mengecek status kelulusan mahasiswa dan menampilkan hasilnya.
 - Pastikan tipe data yang digunakan untuk atribut sudah sesuai (contoh: `nilai` harus berupa integer).
-- **Clue:** gunakan fungsi `int()` untuk mengubah input menjadi integer.
+**Clue:** gunakan fungsi `int()` untuk mengubah input menjadi integer.
 - Buatlah validasi sederhana agar nilai yang dimasukkan harus berada dalam rentang 0-100.
 **Clue:** gunakan pernyataan `if` untuk mengecek nilai yang dimasukkan. Misalnya, jika nilai < 0, maka nilai = 0. Jika nilai > 100, maka nilai = 100.
 
