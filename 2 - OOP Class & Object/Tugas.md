@@ -28,6 +28,7 @@ Kalian diminta untuk membuat sebuah **program Python** yang dapat digunakan untu
    - `tambah_mahasiswa(mahasiswa)`: Menambahkan object `Mahasiswa` ke dalam list `daftar_mahasiswa`.  
    **Clue:** sintaks untuk menambahkan object ke dalam list adalah: `self.daftar_mahasiswa.append(mahasiswa)`.
    - `tampilkan_semua_mahasiswa()`: Menampilkan semua data mahasiswa dalam kelas.
+   **Clue:** gunakan perulangan `for` untuk menampilkan data mahasiswa. Misalnya, `for mahasiswa in self.daftar_mahasiswa: print(mahasiswa.deskripsi())`.
    - `hitung_rata_rata_nilai()`: Menghitung dan menampilkan rata-rata nilai mahasiswa dalam kelas.
    **Clue:** gunakan fungsi `sum()` untuk menjumlahkan nilai-nilai mahasiswa dan `len()` untuk menghitung jumlah mahasiswa.
    - `cari_nilai_tertinggi()`: Menampilkan mahasiswa dengan nilai tertinggi.
@@ -48,7 +49,7 @@ Kalian diminta untuk membuat sebuah **program Python** yang dapat digunakan untu
 
 1. **Class Mahasiswa**
    - Buat class `Mahasiswa` yang memiliki atribut nama, NIM, dan nilai.
-   - Buat metode `deskripsi()` untuk menampilkan detail mahasiswa dan metode `status_kelulusan()` untuk mengecek apakah mahasiswa lulus atau tidak.
+   - Buat metode `deskripsi()` untuk menampilkan detail mahasiswa dan metode `status_kelulusan()` untuk mengecek apakah mahasiswa lulus atau tidak. Anda bisa memanggil `self.status_kelulusan()` di dalam metode `deskripsi()`.
 
 2. **Class Kelas**
    - Buat class `Kelas` yang menyimpan daftar mahasiswa dalam list.
