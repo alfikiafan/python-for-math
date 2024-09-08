@@ -1,8 +1,8 @@
 # Pengantar Python
 
-## 1. Pengenalan Dunia Pemrograman
+## 1. Pengenalan Pemrograman
 
-Pemrograman (_coding_) itu ibarat memberikan instruksi atau perintah kepada komputer untuk melakukan tugas tertentu. Bayangkan komputer itu seperti asisten yang sangat pintar, tapi dia hanya bisa melakukan apa yang kamu perintahkan secara tepat. Misalnya, jika kamu ingin asistenmu menghitung nilai matematika atau menganalisis data, kamu harus memberitahunya dengan jelas apa yang harus dilakukan.
+Pemrograman (_programming_) ibarat memberikan instruksi atau perintah kepada komputer untuk melakukan tugas tertentu. Bayangkan komputer itu seperti asisten yang sangat pintar, tapi dia hanya bisa melakukan apa yang kamu perintahkan secara tepat. Misalnya, jika kamu ingin asistenmu menghitung nilai matematika atau menganalisis data, kamu harus memberitahunya dengan jelas apa yang harus dilakukan.
 
 <p align="center">
   <img src="https://storage.googleapis.com/fastwork-static/dfeb4215-792f-40a7-9f57-783a1927eb3e.jpg" alt="Ilustrasi Pemrograman" width="50%" title="Ilustrasi Pemrograman: Komputer bertindak seperti asisten yang menjalankan instruksi yang diberikan oleh programmer"/>
@@ -20,8 +20,8 @@ Python adalah salah satu bahasa pemrograman yang sangat populer dan mudah dipela
 
 ### Kenapa Python?
 
-- Sederhana dan Mudah Dipahami: Seperti menulis kalimat dalam bahasa sehari-hari.
-- Kuat dan Serbaguna: Bisa digunakan untuk banyak hal, mulai dari perhitungan matematika hingga pembuatan website.
+- Sederhana dan Mudah Dipahami, seperti menulis kalimat dalam bahasa sehari-hari.
+- Kuat dan serbaguna, bisa digunakan untuk banyak hal, mulai dari perhitungan matematika hingga pembuatan AI.
 
 ## 3. Tipe Data, Variabel dan Operator
 
@@ -220,11 +220,7 @@ Di Python, ada dua cara untuk menulis komentar:
    x = 10  # Ini juga komentar satu baris, di akhir baris kode
    ```
 
-   Penjelasan:
-   - `# Ini adalah komentar satu baris` adalah komentar yang menjelaskan bahwa baris ini adalah komentar.
-   - `x = 10` adalah kode yang menetapkan nilai 10 ke variabel `x`. Komentar `# Ini juga komentar satu baris, di akhir baris kode` ada di akhir baris kode dan menjelaskan kode tersebut.
-
-2. Komentar Beberapa Baris: Jika kamu perlu menulis komentar yang lebih panjang atau beberapa baris komentar, kamu bisa menggunakan tanda kutip tiga (`"""` atau `'''`) untuk membuat komentar multi-baris. Meskipun ini bukan cara standar untuk komentar multi-baris, ini sering digunakan.
+2. Komentar Beberapa Baris: Jika kamu perlu menulis komentar yang lebih panjang atau beberapa baris komentar, kamu bisa menggunakan tanda kutip tiga (`"""` atau `'''`) untuk membuat komentar multi-baris.
 
    #### Contoh:
    ```python
@@ -241,5 +237,5 @@ Di Python, ada dua cara untuk menulis komentar:
 
 ### Tips untuk Menulis Komentar
 
-- Jangan Berlebihan: Jangan terlalu banyak berkomentar. Jika kode sudah jelas, komentar yang berlebihan malah bisa membuat bingung.
-- Jelaskan Logika, Bukan Sintaks: Fokuskan komentar pada logika dan alasan di balik kode, bukan hanya menjelaskan sintaks dasar yang sudah jelas.
+- Jangan berlebihan. Jangan terlalu banyak berkomentar. Jika kode sudah jelas, komentar yang berlebihan malah bisa membuat bingung.
+- Jelaskan logika, bukan sintaks. Fokuskan komentar pada logika dan alasan di balik kode, bukan hanya menjelaskan sintaks dasar yang sudah jelas.

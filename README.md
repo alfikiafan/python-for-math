@@ -1,10 +1,16 @@
-# Praktikum Pemrograman Python
+<h2 align="center">
+  Praktikum Pemrograman Python
+</h2>
 
-![Python](https://img.shields.io/badge/Python-3.9.6-blue?style=flat&logo=python&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1.58.2-blue?style=flat&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-6.4.0-blue?style=flat&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-1.3.1-blue?style=flat&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-1.21.1-blue?style=flat&logo=numpy&logoColor=white)
+<div align="center">  
+
+  ![Python](https://img.shields.io/badge/Python-3.9.6-blue?style=flat&logo=python&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1.58.2-blue?style=flat&logo=visual-studio-code&logoColor=white)
+  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-6.4.0-blue?style=flat&logo=jupyter&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-1.3.1-blue?style=flat&logo=pandas&logoColor=white)
+  ![Numpy](https://img.shields.io/badge/Numpy-1.21.1-blue?style=flat&logo=numpy&logoColor=white)  
+
+</div>
 
 <p align="center">
   <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp" alt="Logo Bahasa Pemrograman Python" width="35%" title="Logo Bahasa Pemrograman Python"/>
@@ -39,5 +45,5 @@ Selamat datang di Praktikum Pemrograman Python! Silakan lihat source code dan ma
 > [Tugas]()
 
 ### 7 - Pandas
-> [Materi]()
+> [Materi]()  
 > [Tugas]()
