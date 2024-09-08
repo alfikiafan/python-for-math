@@ -22,28 +22,7 @@ Selamat datang di Praktikum Pemrograman Python! Silakan lihat source code dan ma
 
 ### 1 - Pengenalan Python
 > [Materi](https://github.com/alfikiafan/python-for-math/blob/main/1%20-%20Pengantar%20Python/Materi.md)  
-> [Tugas](https://github.com/alfikiafan/python-for-math/blob/main/1%20-%20Pengantar%20Python/Tugas.md)
 
 ### 2 - OOP Class & Object
-> [Materi]()  
-> [Tugas]()
-
-### 3 - Inheritance & Encapsulation
-> [Materi]()  
-> [Tugas]()
-
-### 4 - Polymorphism & Abstraction
-> [Materi]()  
-> [Tugas]()
-
-### 5 - Struktur Data
-> [Materi]()  
-> [Tugas]()
-
-### 6 - Numpy dan Operasi File
-> [Materi]()  
-> [Tugas]()
-
-### 7 - Pandas
-> [Materi]()  
-> [Tugas]()
+> [Materi](https://github.com/alfikiafan/python-for-math/blob/main/2%20-%20OOP%20Class%20%26%20Object/Materi.md)  
+> [Tugas](https://github.com/alfikiafan/python-for-math/blob/main/2%20-%20OOP%20Class%20%26%20Object/Tugas.md)
