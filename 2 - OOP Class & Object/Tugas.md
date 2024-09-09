@@ -148,3 +148,6 @@ Program selesai.
 Kumpulkan tugas kalian dalam bentuk **file Python (.py)** ke dalam Google Classroom **paling lambat 1 minggu** dari hari ini.
 
 Selamat mengerjakan, dan jangan ragu untuk bertanya jika ada yang kurang jelas. Tetap semangat!
+
+### Nama File
+**Tugas1_NIM_Nama.py**

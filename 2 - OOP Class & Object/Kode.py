@@ -8,7 +8,7 @@ class Mobil:
         print("Mobil dinyalakan")
 
     def berjalan(self):
-        print(f"Mobil", self.merek, "sedang berjalan")
+        print(f"Mobil dengan merek", self.merek, "yang berwarna", self.warna, "sedang berjalan")
 
 ferrari = Mobil("merah", 2020, "Ferrari")
 toyota = Mobil("putih", 2019, "Toyota")
@@ -17,3 +17,13 @@ tesla = Mobil("hitam", 2023, "Tesla")
 ferrari.berjalan()
 toyota.berjalan()
 tesla.nyalakan()
+
+ferrari.warna = "emas"
+
+print("Warna dari mobil Ferrari adalah:", ferrari.warna)
+print("Tahun dari mobil Tesla adalah:", tesla.tahun)
+
+del tesla.tahun
+
+print("Tahun dari mobil Tesla adalah:", tesla.tahun)
+
